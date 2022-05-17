@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivanna Romanskyy - Group Leader, Engineering for Forecast5 - NPE & IC Scrum Teams
+- 👋 Hi, I’m Ivanna Romanskyy - Manager, Engineering for Forecast5 - NPE & IC Scrum Teams
 - 👀 I’m interested in exploring
 - 🌱 I’m currently learning how to manage people, process and stress
 - 📫 How to reach me ...iromanskyy@frontlineed.com or Slack
